@@ -1,0 +1,32 @@
+HTML Tags:
+Tags are the building blocks of HTML.
+They are used to define elements on a web page.
+Tags are written in angle brackets, like <tagname>.
+Tags are often used in pairs, with an opening tag and a closing tag. The closing tag has a forward slash before the tag name, like </tagname>.
+Example of a simple HTML tag pair:
+
+html
+
+<p>This is a paragraph.</p>
+In this example:
+
+<p> is the opening tag.
+</p> is the closing tag.
+
+The content, "This is a paragraph," is enclosed between the opening and closing tags and represents the 
+HTML element.
+
+
+
+HTML Elements:
+An HTML element is a complete set of tags and the content they enclose.
+Elements can be as simple as a single pair of tags with content (like the paragraph example), or they can be more complex with nested elements.
+Elements are the basic structural units of an HTML document, defining the different parts of a page, such as headings, paragraphs, links, images, lists, etc.
+Example of a more complex HTML element with nested elements:
+
+In this example:
+
+<div> is the opening tag for a division or section.
+</div> is the closing tag.
+Inside the div element, there are several other elements, including <h2>, <p>, and <ul>.
+HTML elements are the building blocks that structure the content of a web page. By combining different elements and organizing them hierarchically, you can create complex and well-organized web pages.
